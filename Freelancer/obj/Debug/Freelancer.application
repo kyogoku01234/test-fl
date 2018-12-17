@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Freelancer.exe.manifest" size="4429">
+    <dependentAssembly dependencyType="install" codebase="Freelancer.exe.manifest" size="4817">
       <assemblyIdentity name="Freelancer.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>74h+OnIPRo54LJ9W762vQsX0MzqPJZBS6sa302hWT78=</dsig:DigestValue>
+        <dsig:DigestValue>G0EZmJyDrE00Yx5HVE3WkjkqvBYIDTHIhCy7+1pMC4w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

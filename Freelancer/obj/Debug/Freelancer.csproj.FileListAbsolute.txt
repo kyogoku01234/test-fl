@@ -12,3 +12,17 @@ C:\Users\Nhan\source\repos\Freelancer\Freelancer\bin\Debug\Freelancer.exe
 C:\Users\Nhan\source\repos\Freelancer\Freelancer\bin\Debug\Freelancer.pdb
 C:\Users\Nhan\source\repos\Freelancer\Freelancer\obj\Debug\Freelancer.application
 C:\Users\Nhan\source\repos\Freelancer\Freelancer\obj\Debug\Freelancer.csprojAssemblyReference.cache
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\bin\Debug\Freelancer.exe.config
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\bin\Debug\Freelancer.exe.manifest
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\bin\Debug\Freelancer.application
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\bin\Debug\Freelancer.exe
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\bin\Debug\Freelancer.pdb
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.csprojAssemblyReference.cache
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.Form1.resources
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.Properties.Resources.resources
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.csproj.GenerateResource.cache
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.csproj.CoreCompileInputs.cache
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.exe.manifest
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.application
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.exe
+C:\Users\Nhan\Documents\Visual Studio 2017\Templates\test-fl\Freelancer\obj\Debug\Freelancer.pdb
